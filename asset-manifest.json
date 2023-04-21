@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c27f3dc4.css",
+    "main.js": "/static/js/main.9748af1e.js",
+    "static/media/Space.mp4": "/static/media/Space.5478ef017a89aa3d72f8.mp4",
+    "static/media/astronaut.jpg": "/static/media/astronaut.be91a128f4e1f33cd0b5.jpg",
+    "static/media/travel.jpg": "/static/media/travel.f2ac10a778577c62932b.jpg",
+    "static/media/space2.jpg": "/static/media/space2.9ccc4893f8989b65c59f.jpg",
+    "index.html": "/index.html",
+    "main.c27f3dc4.css.map": "/static/css/main.c27f3dc4.css.map",
+    "main.9748af1e.js.map": "/static/js/main.9748af1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c27f3dc4.css",
+    "static/js/main.9748af1e.js"
+  ]
+}
